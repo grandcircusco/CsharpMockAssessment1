@@ -15,8 +15,11 @@ The assessment is worth ten points, one for each of the test cases blow. Pay spe
 For this challenge, you will need to create a new C# Project named MockAssessment1a. You will write your methods inside of your Program class. You will not be graded on what’s in your Main method, though you are encouraged to test your code as you write it.
 
 Create a static method named IsTheSame() that returns a bool and takes in two numbers (int) as parameters.
+
 If num1 is equal to num2, return true.
+
 If num1 is not equal to num2, return false.
+
 Create a static method named Subtract() that takes in 2 parameters, all doubles: num1, num2.
 This method should return the difference of num2 from num1.
 Create a static method named FindBuildingType() takes in a number (int) as a parameter. (The following ranges are inclusive.)
