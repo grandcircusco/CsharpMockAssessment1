@@ -26,4 +26,4 @@ If a number is between 11 and 49, return “This is a skyscraper!”
 If the number is less than 3, return “This is a house!”
 
 # SUBMISSION
-When finished, find your project in your File Explorer. Close Visual Studio. Delete the bin and obj folders in your project, compress the MockAsssessment1a project as an archive file (ZIP) and upload it below.
+Please push your assessment up to this github repo! DO NOT post it on a public repo. 
