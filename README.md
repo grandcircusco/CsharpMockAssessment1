@@ -1,6 +1,6 @@
 # CsharpMockAssessment1
 
-# ASSESSMENT 1 - UNIT 2
+# ASSESSMENT 1
 ## Core concepts: conditionals, method writing
 
 # OVERVIEW
