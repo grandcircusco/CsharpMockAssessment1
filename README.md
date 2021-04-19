@@ -9,8 +9,7 @@ Your completed application should include three methods that perform the require
 
 # BUILD SPECIFICATIONS
 The assessment is worth ten points, one for each of the test cases blow. Pay special attention to the items in bold. You must use these in your program exactly, including capitalization, in order to get the points.
-
-For this challenge, you will need to create a new C# Project named MockAssessment1a. You will write your methods inside of your Program class. You will not be graded on what’s in your Main method, though you are encouraged to test your code as you write it.
+ You will write your methods inside of your Program class. You will not be graded on what’s in your Main method, though you are encouraged to test your code as you write it.
 
 Create a static method named IsTheSame() that returns a bool and takes in two numbers (int) as parameters.
 
